@@ -1,26 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Sahil+Ahamad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Startup-Level+Tech+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=7F3FBF&center=true&vCenter=true&width=700&lines=Sahil+Ahamad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Tech+Products" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Passion-AI%20%26%20ML-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Startup%20Builder-FF00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-7F3FBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Startup%20Mindset-Professional-FF2E88?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Full Stack Developer focused on scalable web applications  
+💻 Full Stack Developer focused on scalable and production-ready applications  
 🧵 Currently building **Silaayi – Digital Stitching Platform**  
-🤖 Exploring AI integration in real-world applications  
-🔥 Passionate about turning ideas into startup-level products  
-📍 Based in India  
+🤖 Integrating AI/ML into real-world solutions  
+📈 Passionate about system design, optimization & clean architecture  
+📍 India  
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Languages
 <p align="center">
@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-### ⚙️ Backend
+### ⚙ Backend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
@@ -49,46 +49,42 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00F7FF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilahamaddev&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00F7FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilahamaddev&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahamaddev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilahamaddev/sahilahamaddev/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahamaddev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Professional Links
 
 <p align="center">
 <a href="https://sahil1portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Visit-Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1u0CKhwYCr8jEo4hT-LmHPW5lXN_tMXG8/view">
+<img src="https://img.shields.io/badge/Resume-Download-7F3FBF?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 🤝 Open To Collaborate
+## 🤝 Open To Collaborate
 
-✨ Full Stack Web Applications  
-✨ AI / ML Real-World Projects  
-✨ Startup Product Development  
+✔ Full Stack Applications  
+✔ AI / ML Real-World Projects  
+✔ Startup & Product Development  
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/sahilahamad">
@@ -104,6 +100,6 @@
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-🚀 I don’t just build projects for marks — I build them like real startups.
+🚀 I don’t build projects for marks — I build them like scalable products.
