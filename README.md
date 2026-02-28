@@ -1,96 +1,59 @@
 <h1 align="center">Hi 👋, I'm Sahil Ahamad</h1>
-<h3 align="center">
-🚀 Full Stack Developer | MCA Student | AI Enthusiast <br>
-💼 Junior Software Developer (Mobillite) <br>
-📍 Lucknow, India
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 MCA student passionate about building real-world tech solutions  
-- 🚀 Founder mindset – building products like startups  
-- 🧵 Currently developing **Silaayi – Digital Stitching Platform**  
-- 🤖 Interested in AI, Machine Learning & Scalable Web Apps  
-- 💡 Love solving practical problems with technology  
-
----
-
-## 🔭 Current Project
-
-### 🧵 Silaayi – Digital Stitching Platform
-A tech platform connecting local stitchers with customers.
-
-**Key Features:**
-- 📅 Measurement scheduling system  
-- 🧵 Cloth template preview  
-- 📦 Order tracking  
-- 💳 Payment gateway integration  
-- 🌐 Full Stack architecture  
-
----
-
-## 🌱 Currently Learning
-
-- ⚛️ React.js  
-- 🌐 Advanced Backend & System Design  
-- 🤖 ML Model Deployment  
-- ☁️ Cloud Deployment  
-
----
-
-## 👯 Open To Collaborate On
-
-- Full Stack Web Applications  
-- AI/ML Real-World Projects  
-- Startup-based Tech Products  
-
----
-
-## 🤝 Looking For Help With
-
-- Scaling production-level applications  
-- AI model optimization & deployment  
-- System architecture & performance optimization  
-
----
-
-## 💬 Ask Me About
-
-- HTML, CSS, JavaScript  
-- Node.js & Backend Development  
-- Git & GitHub  
-- Machine Learning Basics  
-- Startup Product Development  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`JavaScript` `Python` `Java` `SQL`
-
-### 🌐 Frontend
-`HTML5` `CSS3` `Bootstrap` `React.js`
-
-### ⚙️ Backend
-`Node.js` `Express.js`
-
-### 🗄️ Database
-`SQLite` `MySQL`
-
-### 🔧 Tools
-`Git` `GitHub` `VS Code` `Postman`
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilahamaddev&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MCA+Student;AI+%26+ML+Enthusiast;Building+Real+World+Tech+Products" />
+</p>
+
+---
+
+## 🚀 About Me
+
+💻 Full Stack Developer passionate about building real-world scalable applications  
+🧵 Currently building **Silaayi – A Digital Stitching Platform**  
+🤖 Exploring AI & Machine Learning integration in production apps  
+📍 Based in India  
+🔥 Startup-minded developer focused on practical solutions  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,java,sql" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilahamaddev&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahamaddev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -107,14 +70,25 @@ A tech platform connecting local stitchers with customers.
 
 ---
 
+## 🤝 Open To Collaborate
+
+✔ Full Stack Web Applications  
+✔ AI / ML Real-World Projects  
+✔ Startup Product Development  
+
+---
+
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/sahilahamad" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:sahilahamad.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 <a href="https://instagram.com/onlysahil59" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
@@ -122,4 +96,4 @@ A tech platform connecting local stitchers with customers.
 
 ## ⚡ Fun Fact
 
-I think like a developer but dream like a startup founder 🚀
+I don’t just build projects for marks — I build them like real startups 🚀
