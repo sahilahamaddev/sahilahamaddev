@@ -1,105 +1,82 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=7F3FBF&center=true&vCenter=true&width=700&lines=Sahil+Ahamad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Tech+Products" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=7F3FBF&height=250&section=header&text=Sahil%20Ahamad&fontSize=80&animation=fadeIn&fontAlignY=40" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-7F3FBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Startup%20Mindset-Professional-FF2E88?style=for-the-badge" />
-</p>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=A156FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Founder+of+Silaayi;AI+%26+ML+Architect;Building+The+Future+of+Digital+Stitching" />
+  </h1>
 
----
-
-## 🚀 About Me
-
-💻 Full Stack Developer focused on scalable and production-ready applications  
-🧵 Currently building **Silaayi – Digital Stitching Platform**  
-🤖 Integrating AI/ML into real-world solutions  
-📈 Passionate about system design, optimization & clean architecture  
-📍 India  
+  <p>
+    <img src="https://img.shields.io/badge/MCA%20Scholar-Chandigarh%20University-7F3FBF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Product-Focused-00C2FF?style=for-the-badge&logo=blueprint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF2E88?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,sql" />
-</p>
-
-### 🌐 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-### ⚙ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🔧 Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+## 🛰️ The Mission Control
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 Current Trajectory</h3>
+        <ul>
+          <li>🛠️ <b>Architecting:</b> <a href="https://silaayi.in">Silaayi</a> – revolutionizing the tailoring ecosystem.</li>
+          <li>🧠 <b>Innovating:</b> RAG-based AI Chatbots using <b>Gemini API</b>.</li>
+          <li>🎓 <b>Academic:</b> Master of Computer Applications @ CU.</li>
+          <li>🔍 <b>Focus:</b> Scalable System Design & Neural Networks.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>💫 Professional Metrics</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilahamaddev&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahamaddev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## 🛠️ The Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,express,mysql,git,vscode,postman,unity,bootstrap" />
+</div>
 
 ---
 
-## 🌐 Professional Links
+## 🏗️ Project Spotlight: Silaayi 🧵
+> "I don't build projects for marks — I build them like scalable products."
 
-<p align="center">
-<a href="https://sahil1portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1u0CKhwYCr8jEo4hT-LmHPW5lXN_tMXG8/view">
-<img src="https://img.shields.io/badge/Resume-Download-7F3FBF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-</p>
+* **Objective:** To digitize the traditional embroidery and tailoring workflow.
+* **Tech:** Java Servlets, MySQL, and High-fidelity Web Tech.
+* **Status:** In active development and scaling phase.
 
 ---
 
-## 🤝 Open To Collaborate
-
-✔ Full Stack Applications  
-✔ AI / ML Real-World Projects  
-✔ Startup & Product Development  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/sahilahamad">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="mailto:sahilahamad.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-<a href="https://instagram.com/onlysahil59">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-</p>
+## 📈 Activity & Insights
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilahamaddev&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahamaddev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🤝 Connect & Collaborate
+<div align="center">
+  <a href="https://linkedin.com/in/sahilahamad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sahilahamad.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sahil1portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
-🚀 I don’t build projects for marks — I build them like scalable products.
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=7F3FBF&height=100&section=footer" />
+  <p><i>Stay Curious. Keep Coding. 🚀</i></p>
+</div>
