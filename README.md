@@ -1,32 +1,39 @@
-<div align="center">
-  <h1>Hi, I'm Sahil Ahamad 🚀</h1>
-  <p><strong>Full-Stack Engineer | MCA Candidate | Founder of <a href="https://silaayi.in">Silaayi</a></strong></p>
+<h1 align="center">Hi 👋, I'm Sahil Ahamad</h1>
+<h3 align="center">🎓 MCA Student passionate about building real-world tech solutions - 💼 Junior Software Developer (Offer from Mobillite) - 🚀 Currently building **Silaayi – A Digital Stitching Platform** - 🤖 Interested in AI, Machine Learning & Full Stack Development - 📍 Based in Lucknow, India</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sahil's Stats" />
+- 🔭 I’m currently working on [- 🧵 **Silaayi – Digital Stitching Platform** - Connecting local stitchers with customers - Measurement scheduling system - Cloth template preview - Order tracking system - Payment gateway integration](null)
 
-  <br/>
+- 🌱 I’m currently learning **⚛️ React.js - 🌐 Advanced Backend Development - 🤖 Machine Learning Model Deployment**
 
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  </p>
-</div>
+- 👯 I’m looking to collaborate on **- Full Stack Web Applications - AI/ML Real-World Projects - Startup-based Tech Products**
 
----
+- 🤝 I’m looking for help with **Scaling startup-level web applications - UI/UX improvements for real-world products - Deploying AI/ML models into production - Performance optimization & system architecture**
 
-### ⚡ Technical Narrative
-* 🛠️ **Founder @ Silaayi:** Architecting a digital ecosystem for the tailoring and embroidery industry.
-* 🎓 **MCA Scholar:** Advanced computing student at Chandigarh University.
-* 🤖 **AI Integration:** Developing intelligent solutions using Python and Gemini API.
-* 🎮 **Interactive Dev:** Creating immersive environments with the Unity Engine.
+- 👨‍💻 All of my projects are available at [https://sahil1portfolio.netlify.app](https://sahil1portfolio.netlify.app)
 
-### 🏆 Key Engineering Projects
-* **Silaayi Ecosystem:** A full-stack startup platform.
-* **Intelligent PDF Bot:** RAG-based chatbot using Gemini API.
-* **Quick Food Delivery:** High-performance vendor-to-customer web solution.
+- 💬 Ask me about **- HTML, CSS, JavaScript - Node.js & Backend Logic - Git & GitHub - Machine Learning Basics - Startup Project Development ---**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahamaddev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+- 📫 How to reach me **sahilahamad.dev@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1u0CKhwYCr8jEo4hT-LmHPW5lXN_tMXG8/view?usp=drive_link](https://drive.google.com/file/d/1u0CKhwYCr8jEo4hT-LmHPW5lXN_tMXG8/view?usp=drive_link)
+
+- ⚡ Fun fact **I think like a developer but dream like a startup founder 🚀**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sahil23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahilahamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilahamad" height="30" width="40" /></a>
+<a href="https://instagram.com/onlysahil59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onlysahil59" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sahilahamad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahilahamad" /></a><a href="https://ko-fi.com/sahilahamamd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahilahamamd" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilahamaddev&show_icons=true&locale=en&layout=compact" alt="sahilahamaddev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilahamaddev&show_icons=true&locale=en" alt="sahilahamaddev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilahamaddev&" alt="sahilahamaddev" /></p>
